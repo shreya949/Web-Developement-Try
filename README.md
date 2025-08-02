@@ -1,6 +1,5 @@
 # Web-Developement-Try
-"A collection of my web development projects and practice, showcasing HTML, CSS, JavaScript, and beyond."
-# Web Development Journey  
+"A collection of my web development projects and practice, showcasing HTML, CSS, JavaScript, and beyond."  
 
 Welcome to my **Web Development** repository! 
 Here I’ll be committing my **practice code, and experiments** as I learn and grow in web technologies.  
